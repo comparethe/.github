@@ -1,4 +1,4 @@
-Welcome 👋 to Compare the __
+Welcome 👋 to **CompareThe__ 🔍**
 
 Product information and evaluation based on facts and data ... by, with and for the community.
 
