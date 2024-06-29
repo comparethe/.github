@@ -1,8 +1,6 @@
 Welcome 👋 to **CompareThe__ 🔍**
 
-An early stage experiment in ...
-
-**product information and evaluation based on facts and data ... by, with and for the community.
+An early stage experiment in ... **product information and evaluation based on facts and data ... by, with and for the community**.
 
 This an initiative of the [DataHub Data Collective](https://datahub.io/) and [Datopian](https://datopian.com).
 
