@@ -1,14 +1,19 @@
 Welcome 👋 to **CompareThe__ 🔍**
 
-An early stage experiment in ... **product information and evaluation based on facts and data ... by, with and for the community**.
+An experiment in ... **collecting product information and evaluations using simple, open markdown-based methods**.
 
-This an initiative of the [DataHub Data Collective](https://datahub.io/) and [Datopian](https://datopian.com).
+An initiative of the [DataHub Data Collective](https://datahub.io/) and [Datopian](https://datopian.com).
 
 It was started by @rufuspollock and [add your name here »](https://github.com/orgs/comparethe/discussions/2).
 
 ## Get started
 
 To get started check out the [💬 discussions section](https://github.com/orgs/comparethe/discussions)
+
+Examples
+
+- What is best AI chat: https://github.com/orgs/comparethe/discussions/5
+- What is the best tool for social media posting? https://github.com/orgs/comparethe/discussions/4
 
 ## Motivation
 
