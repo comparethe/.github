@@ -1,6 +1,6 @@
 Welcome 👋 to **CompareThe__ 🔍**
 
-An experiment in ... **collecting product information and evaluations using simple, open markdown-based methods**.
+An experiment in ... **collecting product recommendations using simple, open markdown-based methods**.
 
 An initiative of the [DataHub Data Collective](https://datahub.io/) and [Datopian](https://datopian.com).
 
