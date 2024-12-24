@@ -1,5 +1,7 @@
 Welcome 👋 to **CompareThe__ 🔍**
 
+https://comparethe.org/
+
 An experiment in ... **collecting product recommendations using simple, open markdown-based methods**.
 
 An initiative of the [DataHub Data Collective](https://datahub.io/) and [Datopian](https://datopian.com).
@@ -9,6 +11,8 @@ It was started by @rufuspollock and [add your name here »](https://github.com/o
 ## Get started
 
 To get started check out the [💬 discussions section](https://github.com/orgs/comparethe/discussions)
+
+OR go straight to the repo: **https://github.com/comparethe/comparethe** 👈
 
 Examples
 
